@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CA_Laco_For_Soma", "CA_Laco_For_Soma\CA_Laco_For_Soma.vbproj", "{87F3BF33-D6DD-4C33-8365-05929E970E6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87F3BF33-D6DD-4C33-8365-05929E970E6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87F3BF33-D6DD-4C33-8365-05929E970E6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87F3BF33-D6DD-4C33-8365-05929E970E6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87F3BF33-D6DD-4C33-8365-05929E970E6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85699371-8EF4-4082-95A3-E2B57BBFB335}
+	EndGlobalSection
+EndGlobal

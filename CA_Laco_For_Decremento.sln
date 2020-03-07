@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CA_Laco_For_Decremento", "CA_Laco_For_Decremento\CA_Laco_For_Decremento.vbproj", "{F26CEA15-5772-4AD7-8E1F-E878E98B28D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F26CEA15-5772-4AD7-8E1F-E878E98B28D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F26CEA15-5772-4AD7-8E1F-E878E98B28D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F26CEA15-5772-4AD7-8E1F-E878E98B28D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F26CEA15-5772-4AD7-8E1F-E878E98B28D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94EFC07D-2D08-470A-81CB-4A3A04F048C3}
+	EndGlobalSection
+EndGlobal
