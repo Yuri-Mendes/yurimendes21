@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CA_Indexada_Soma", "CA_Indexada_Soma\CA_Indexada_Soma.vbproj", "{F79F65B7-FC22-497D-B2DC-3D0E34E2D72A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F79F65B7-FC22-497D-B2DC-3D0E34E2D72A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F79F65B7-FC22-497D-B2DC-3D0E34E2D72A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F79F65B7-FC22-497D-B2DC-3D0E34E2D72A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F79F65B7-FC22-497D-B2DC-3D0E34E2D72A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCA753AD-B694-4F13-B682-2B6ED6A24370}
+	EndGlobalSection
+EndGlobal

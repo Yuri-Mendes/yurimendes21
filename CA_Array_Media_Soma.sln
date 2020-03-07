@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CA_Array_Media_Soma", "CA_Array_Media_Soma\CA_Array_Media_Soma.vbproj", "{6B912BF3-3E2F-4F5E-8EAD-EF09E3BCCE74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B912BF3-3E2F-4F5E-8EAD-EF09E3BCCE74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B912BF3-3E2F-4F5E-8EAD-EF09E3BCCE74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B912BF3-3E2F-4F5E-8EAD-EF09E3BCCE74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B912BF3-3E2F-4F5E-8EAD-EF09E3BCCE74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BF9DAEA-6E2A-4BB7-BFAC-1E75689F3854}
+	EndGlobalSection
+EndGlobal
